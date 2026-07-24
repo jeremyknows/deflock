@@ -5,7 +5,7 @@
     "name": "DeFlock",
     "description": "Crowdsourced map of automated license plate readers (ALPRs) and other public surveillance cameras.",
     "project_url": "https://deflock.org",
-    "doc_url": "https://deflock.org/what-is-an-alpr",
+    "doc_url": "https://github.com/FoggedLens/deflock/blob/master/README.md",
     "icon_url": "https://deflock.org/deflock-logo.svg",
     "contact_name": "DeFlock",
     "contact_email": "contact@deflock.org"
