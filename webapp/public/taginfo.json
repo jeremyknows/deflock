@@ -89,12 +89,12 @@
     {
       "key": "surveillance:brand",
       "object_types": ["node"],
-      "description": "Brand of the surveillance camera (for example Flock Safety or Motorola)."
+      "description": "Brand of the surveillance camera."
     },
     {
       "key": "wikimedia_commons",
       "object_types": ["node"],
-      "description": "Wikimedia Commons file or category documenting the camera."
+      "description": "Wikimedia Commons image of the camera."
     },
     {
       "key": "note",
